@@ -1,0 +1,23 @@
+{
+  "name": "playwrightwithtypescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "fullTest": "npx playwright test",
+    "allure-report":"allure serve allure-results"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.14.1",
+    "allure-commandline": "^2.34.1",
+    "allure-playwright": "^3.3.0",
+    "monocart-reporter": "^2.9.21"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
