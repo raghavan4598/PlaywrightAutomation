@@ -4,7 +4,7 @@ import {LoginPage} from '../pages/LoginPage';
 
 const url = "https://rahulshettyacademy.com/client"
 const email = "raghavmaddali.1357@gmail.com"
-const password = "1357@Raghav"
+const password = "Raghavan@4598"
 const Incorrectpassword="1357@raghav"
 
 
